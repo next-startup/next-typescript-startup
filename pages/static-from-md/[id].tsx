@@ -5,7 +5,6 @@ import { FC } from "react"
 import Head from 'next/head'
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core'
-import { log } from "console"
 
 const StaticMdDemoPage: FC<StaticProps> = ({content}) => {
   return(
