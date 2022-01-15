@@ -11,7 +11,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@types/marked": "^1.1.0",
-    "marked": "^1.1.0",
+    "marked": "^4.0.10",
     "next": "9.4.4",
     "polished": "^3.6.5",
     "prism-material-themes": "^1.0.4",
